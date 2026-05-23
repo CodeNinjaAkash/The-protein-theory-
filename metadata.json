@@ -1,0 +1,6 @@
+{
+  "name": "Protein Theory",
+  "description": "Gourmet health cafe in Jaipur, healthy meals for gym rats, loyalty rewards, real-time ordering and founder fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
